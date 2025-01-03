@@ -52,4 +52,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-- [Any libraries or resources you used]
+- MUI
+- React
