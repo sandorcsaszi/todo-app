@@ -42,11 +42,3 @@ This is a simple Todo application built with modern web technologies. It allows 
   ```
 2. Open your browser and navigate to `http://localhost:5173`.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- MUI
-- React
